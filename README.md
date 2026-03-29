@@ -115,6 +115,6 @@ The five scripts collectively demonstrate core Bash concepts: system inspection,
 
 
 
-Submitted as part of the Open Source Software Capstone Project.  
+Submitted as part of the Open Source Software Project- Vityarthi.  
 Student: Prasoon Mishra  
 Reg. No: 24BCG10110
