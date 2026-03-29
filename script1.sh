@@ -6,8 +6,6 @@
 
 STUDENT_NAME="Prasoon Mishra"
 SOFTWARE_CHOICE="Python"
-
-# Fetching system info using command substitution
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
 UPTIME=$(uptime -p)
